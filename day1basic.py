@@ -1,3 +1,6 @@
+#python最基础的介绍
+#以及turtle画线
+
 import numpy as np
 
 # Python的应用领域
